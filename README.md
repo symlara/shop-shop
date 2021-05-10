@@ -1,2 +1,2 @@
-# shop-shop
+# Shop-Shop
 module22 bootcamp
